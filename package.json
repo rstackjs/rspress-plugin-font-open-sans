@@ -26,15 +26,15 @@
     "bump": "npx bumpp"
   },
   "devDependencies": {
-    "@rslib/core": "^0.18.2",
-    "@types/node": "^24.10.1",
-    "prettier": "^3.7.3",
+    "@rslib/core": "^0.19.4",
+    "@types/node": "^24.10.9",
+    "prettier": "^3.8.1",
     "typescript": "^5.9.3"
   },
   "peerDependencies": {
     "@rspress/core": "^2.0.0-beta.24 || ^2.0.0"
   },
-  "packageManager": "pnpm@10.24.0",
+  "packageManager": "pnpm@10.28.2",
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"
