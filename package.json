@@ -32,7 +32,7 @@
     "typescript": "^5.9.3"
   },
   "peerDependencies": {
-    "@rspress/core": "^2.0.0-beta.24 || ^2.0.0"
+    "@rspress/core": "^2.0.0"
   },
   "packageManager": "pnpm@10.28.2",
   "publishConfig": {
