@@ -20,8 +20,8 @@
     "static"
   ],
   "scripts": {
-    "build": "rslib build",
-    "dev": "rslib build --watch",
+    "build": "rslib",
+    "dev": "rslib -w",
     "prepare": "npm run build",
     "bump": "npx bumpp"
   },
