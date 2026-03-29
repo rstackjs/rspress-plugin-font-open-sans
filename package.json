@@ -26,7 +26,7 @@
     "bump": "npx bumpp"
   },
   "devDependencies": {
-    "@rslib/core": "^0.20.0",
+    "@rslib/core": "^0.20.1",
     "@types/node": "^24.12.0",
     "prettier": "^3.8.1",
     "typescript": "^6.0.2"
@@ -34,7 +34,7 @@
   "peerDependencies": {
     "@rspress/core": "^2.0.0"
   },
-  "packageManager": "pnpm@10.32.1",
+  "packageManager": "pnpm@10.33.0",
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"
