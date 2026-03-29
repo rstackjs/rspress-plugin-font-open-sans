@@ -22,6 +22,7 @@
   "scripts": {
     "build": "rslib",
     "dev": "rslib -w",
+    "test": "pnpm build && node ./scripts/smoke-test.mjs",
     "prepare": "npm run build",
     "bump": "npx bumpp"
   },
@@ -29,7 +30,7 @@
     "@rslib/core": "^0.20.0",
     "@types/node": "^24.12.0",
     "prettier": "^3.8.1",
-    "typescript": "^5.9.3"
+    "typescript": "^6.0.2"
   },
   "peerDependencies": {
     "@rspress/core": "^2.0.0"
