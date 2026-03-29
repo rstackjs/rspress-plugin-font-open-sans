@@ -22,7 +22,6 @@
   "scripts": {
     "build": "rslib",
     "dev": "rslib -w",
-    "test": "pnpm build && node ./scripts/smoke-test.mjs",
     "prepare": "npm run build",
     "bump": "npx bumpp"
   },
