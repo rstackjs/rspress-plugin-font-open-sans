@@ -28,16 +28,16 @@
     "lint:write": "rslint --fix"
   },
   "devDependencies": {
-    "@rslib/core": "^0.21.3",
-    "@rslint/core": "^0.5.1",
-    "@types/node": "^24.12.2",
+    "@rslib/core": "^0.21.4",
+    "@rslint/core": "^0.5.2",
+    "@types/node": "^24.12.3",
     "prettier": "^3.8.3",
     "typescript": "^6.0.3"
   },
   "peerDependencies": {
     "@rspress/core": "^2.0.0"
   },
-  "packageManager": "pnpm@10.33.2",
+  "packageManager": "pnpm@10.33.4",
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"
