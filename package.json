@@ -28,9 +28,9 @@
     "lint:write": "rslint --fix"
   },
   "devDependencies": {
-    "@rslib/core": "^0.21.4",
-    "@rslint/core": "^0.5.2",
-    "@types/node": "^24.12.3",
+    "@rslib/core": "^0.21.5",
+    "@rslint/core": "^0.5.3",
+    "@types/node": "^24.12.4",
     "prettier": "^3.8.3",
     "typescript": "^6.0.3"
   },
