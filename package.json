@@ -37,7 +37,7 @@
   "peerDependencies": {
     "@rspress/core": "^2.0.0"
   },
-  "packageManager": "pnpm@11.2.2",
+  "packageManager": "pnpm@11.3.0",
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"
