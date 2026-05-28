@@ -1,6 +1,6 @@
 {
   "name": "rspress-plugin-font-open-sans",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "repository": "https://github.com/rstackjs/rspress-plugin-font-open-sans",
   "license": "MIT",
   "type": "module",
