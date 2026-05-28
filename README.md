@@ -15,7 +15,7 @@ Open Sans is a humanist sans serif typeface designed by Steve Matteson, Type Dir
 
 See [Google Fonts - Open Sans](https://fonts.google.com/specimen/Open+Sans/about)
 
-![image](https://github.com/rspack-contrib/rspress-plugin-font-open-sans/assets/7237365/de552371-5aab-4deb-b2fa-f7a66fff6706)
+![image](https://github.com/rstackjs/rspress-plugin-font-open-sans/assets/7237365/de552371-5aab-4deb-b2fa-f7a66fff6706)
 
 ## Usage
 
