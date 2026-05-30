@@ -20,7 +20,6 @@
   "scripts": {
     "build": "rslib",
     "dev": "rslib -w",
-    "prepare": "npm run build",
     "bump": "npx bumpp",
     "lint": "rslint",
     "lint:write": "rslint --fix"
