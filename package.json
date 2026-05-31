@@ -25,7 +25,7 @@
     "lint:write": "rslint --fix"
   },
   "devDependencies": {
-    "@rslib/core": "^0.21.5",
+    "@rslib/core": "^0.22.0",
     "@rslint/core": "^0.5.3",
     "@types/node": "^24.12.4",
     "prettier": "^3.8.3",
@@ -34,7 +34,7 @@
   "peerDependencies": {
     "@rspress/core": "^2.0.0"
   },
-  "packageManager": "pnpm@11.3.0",
+  "packageManager": "pnpm@11.5.0",
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"
