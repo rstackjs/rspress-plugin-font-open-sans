@@ -28,13 +28,13 @@
   },
   "devDependencies": {
     "@types/node": "^24.19.2",
-    "rstack": "^0.8.3",
+    "rstack": "^0.9.5",
     "typescript": "^7.0.2"
   },
   "peerDependencies": {
     "@rspress/core": "^2.0.0"
   },
-  "packageManager": "pnpm@12.11.2",
+  "packageManager": "pnpm@12.18.0",
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"
